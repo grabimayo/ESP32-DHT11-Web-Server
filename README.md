@@ -10,7 +10,7 @@ This project integrates hardware and software to create a localized IoT solution
 * **Microcontroller:** ESP32 DevKit V1
 * **Sensor:** DHT11 (Temperature & Humidity)
 * **Connectivity:** 2.4GHz Wi-Fi
-* **Wiring Setup:** * **VCC** -> 3.3V
+* **Wiring Setup:**  **VCC** -> 3.3V
     * **GND** -> GND
     * **DATA** -> GPIO 26
 
